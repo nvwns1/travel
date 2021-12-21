@@ -19,9 +19,9 @@ class MainHome extends StatelessWidget {
         
         debugShowCheckedModeBanner: false,
         home: Scaffold(
-          body: Landing(),
+          body: Landing()),
         ),
-      ),
+      
     );
   }
 }
